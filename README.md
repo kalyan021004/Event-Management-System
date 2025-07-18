@@ -163,12 +163,7 @@ RATE_LIMIT_MAX_REQUESTS=100
 # CORS Configuration
 FRONTEND_URL=http://localhost:3000
 
-# Email Configuration (Optional)
-EMAIL_HOST=smtp.gmail.com
-EMAIL_PORT=587
-EMAIL_USER=your-email@gmail.com
-EMAIL_PASS=your-app-password
-```
+
 
 ### Start MongoDB
 ```bash
